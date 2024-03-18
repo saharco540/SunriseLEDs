@@ -46,7 +46,7 @@ Also good if you wake up after/before sunrise and want to have your own sunrise.
    
 # Getting Started
 ## Building it
-This is the "electrical schematics" 
+This is the "electrical schematics"  
 Default GPIO is 2
 
 <img src="media/schematics.png" alt="Schematics" width="550"/>
