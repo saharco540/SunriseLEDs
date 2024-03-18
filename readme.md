@@ -18,6 +18,7 @@ Also good if you wake up after/before sunrise and want to have your own sunrise.
 - [ ] Find way to avoid soldering and 12v power supply (maybe 5V LED strip?)
 - [ ] Add smart switch mode - just start a sunrise as soon as powered on
 - [ ] Push button integration to turn lights completely on and off, as god intended for a light
+- [ ] Add indication of currently set alarm if set
 
 
 ## Prerequisites
