@@ -47,10 +47,11 @@ Also good if you wake up after/before sunrise and want to have your own sunrise.
 # Getting Started
 ## Building it
 This is the "electrical schematics" 
+Default GPIO is 2
 
 <img src="media/schematics.png" alt="Schematics" width="550"/>
 
-I used IRF9540N P-Channel MOSFET and cut a breadboard with a box opener - 
+I used IRF9540N P-Channel MOSFET and cut a breadboard with a box opener
 
 <img src="media/assembly.jpg" alt="dashboard" width="550"/>
 
