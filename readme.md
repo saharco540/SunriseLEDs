@@ -29,6 +29,7 @@ Also good if you wake up after/before sunrise and want to have your own sunrise.
 - 12v to 5v Converter
     - Alternatively use another 5V source with a common ground with the 12v power supply
 - Soldering capabilities
+- 12V LED Strip (3528/5050 Warm White is a good choice)
 
 ## Method
 
