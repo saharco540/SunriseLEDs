@@ -61,9 +61,10 @@ I used IRF9540N P-Channel MOSFET and cut a breadboard with a box opener -
 1. Clone the project and open a PlatformIO Workspace
    1. If you are using Arduino IDE, just copy the main.cpp and config_example.h
 2. Rename config_example.h to config.h and update configuration
+3. Comment out upload_port = XX.XX.XX.XX to make sure you can upload through USB, change the ip address and uncomment later for OTA
 
 # Usage
-In each method you basically edit these parameters
+In every method (Dashboard/MQTT/Telegram) you control these parameters -
 - Current brightness - ...
 - Max brightness - the target brightness that the sunrise will reach
 - Sunrise Duration (minutes) - how many minutes will the sunrise take - meaning the sunrise will start from [Sunrise Duration] minutes before [Sunrise Time]
